@@ -3,7 +3,7 @@
 :computer: **Ingeniera industrial**
 :pencil: **Científica de datos**
 
-#### Amante de los animales **Animal Lover**
+#### 🐶 **Animal Lover**
 
 ### Vías de contacto
 
