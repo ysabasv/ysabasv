@@ -12,7 +12,6 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ysabasv/ysabasv)
 
-⚡ Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
